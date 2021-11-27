@@ -1,0 +1,2 @@
+- name: Issue SSL certificate
+  uses: Menci/acme@beta-v2
